@@ -19,7 +19,7 @@ project.ext {
     /* Project-specific values                    */
     /* *****************************************  */		    
     // Where you will install or run citeservlet
-    homeUrl = "http://beta.hpcc.uh.edu/tomcat/archimedes/"
+    homeUrl = "http://beta.hpcc.uh.edu/tomcat/episteme/"
 
     // Strings for labelling web pages
     projectlabel = "Episteme project: sources for the study of Greek science"
