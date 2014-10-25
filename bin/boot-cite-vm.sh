@@ -1,0 +1,8 @@
+#!/usr/bin/env /bin/bash
+#
+# bash script for starting up system within the CITE virtual machine,
+# citevm
+#
+
+/vagrant/bin/boot-cite.sh -m /vagrant/repositories/episteme/vm-mgrconf.gradle -c  /vagrant/repositories/episteme/confs/vm-servletconf.gradle -l /vagrant/repositories/episteme/confs/vm-servletlinks.gradle -o /vagrant/repositories/episteme/servletoverlay
+
