@@ -16,5 +16,6 @@
 |  √ Munich CG238 Nicomachus (43 pp) | | | | 
 | D'Orville Euclid | | | |  
 | Archimedes palimpsest | | | |  
-| Bodmer 8 Archimedes | | | | 
+| Bodmer 8 Archimedes | | | |  
+|  √ Munich CG337: Cleomedes (89 pp) | | | |  
 
