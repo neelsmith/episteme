@@ -4,5 +4,5 @@
 # citevm
 #
 
-/vagrant/bin/boot-cite.sh -m /vagrant/repositories/episteme/vm-mgrconf.gradle -c  /vagrant/repositories/episteme/confs/vm-servletconf.gradle -l /vagrant/repositories/episteme/confs/vm-servletlinks.gradle -o /vagrant/repositories/episteme/servletoverlay
+/vagrant/bin/boot-cite.sh -m /vagrant/repositories/episteme/confs/vm-mgrconf.gradle -c  /vagrant/repositories/episteme/confs/vm-servletconf.gradle -l /vagrant/repositories/episteme/confs/vm-servletlinks.gradle -o /vagrant/repositories/episteme/servletoverlay
 
