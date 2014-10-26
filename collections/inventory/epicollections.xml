@@ -4,6 +4,9 @@
     
     <extensionImplementation abbr="image" rdfType="cite:Image"/>
     
+    
+    <!--  ****************************************************************************  -->
+    <!-- IMAGE COLLECTIONS -->
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:dorv301img">
         <namespaceMapping
             abbr="episteme"
@@ -22,11 +25,40 @@
             nstitute: see http://www.claymath.org/euclids-elements. Commercial use is prohibited.</rights>
         <source
             type="file"
-            value="dorv301img.csv"/>
+            value="images/dorv301img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
         
     </citeCollection>
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:muncg212img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 212</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 212 (Ptolemy's Almagest).</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document images from the Bayerische Staatsbibliothek, 
+            licensed under the Creative Commons 'Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland' license (CC-BY-NC-SA)
+        </rights>
+        <source
+            type="file"
+            value="images/muncg212img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    <!--  ****************************************************************************  -->
     
 </collectionService>
