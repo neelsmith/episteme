@@ -60,7 +60,7 @@
     </citeCollection>
     
     
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:bpg78">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:bpg78img">
         <namespaceMapping
             abbr="episteme"
             fullValue="http://shot.holycross.edu/datans/episteme"/>
