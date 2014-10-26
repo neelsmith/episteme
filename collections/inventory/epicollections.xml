@@ -59,6 +59,32 @@
         
     </citeCollection>
     
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:bpg78">
+        <namespaceMapping
+            abbr="episteme"
+            fullValue="http://shot.holycross.edu/datans/episteme"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, Bibliothecae Publicae Codex Graecus 78</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, Bibliothecae Publicae Codex Graecus 78 (Ptolemy's Handy Tables).</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection and images they document are available under the terms of
+            a Creative Commons-Attribution-Share Alike license</rights>
+        <source
+            type="file"
+            value="images/bpg78img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
     <!--  ****************************************************************************  -->
     
 </collectionService>
